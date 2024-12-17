@@ -19,7 +19,11 @@ Teachers can evaluate student submissions, run the code, and assign grades to st
 Secure login and registration for both teachers and students using JWT (JSON Web Token) for authentication and session management.
 
 **Tech Stack**
+
 **Frontend:** React.js, HTML5, CSS3, JavaScript
+
 **Backend:** Node.js, Express.js
+
 **Database:** MongoDB
+
 **Code Compilation:** Compilex for C++, Java, and Python
